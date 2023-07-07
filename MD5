@@ -1,0 +1,14 @@
+c4730e403bee0b273051b5ca2017dcda *DESCRIPTION
+ac02252bc33a3b7d5e01953e2ce9ce6f *NAMESPACE
+d0b5e57f922d0d9e46ebd179d2e68883 *R/FPCA_trajectory.R
+e0e353a2fd9ebd1d1934dc40269c31da *R/KE_bwselection.R
+ea93d71a9bbd3782e4d11fe3fad78e18 *R/KE_fit.R
+3406bb12e6bd8cbad781dabfc6fb8e53 *R/KE_trajSCB.R
+9717c80be3f4c911aef28ec64bfc7754 *R/datagen.R
+02d3497f9defed4757672efa18bc7bc0 *R/longke-package.R
+549c0e0dd89fb1b95a6d2392e0de3585 *man/FPCA_trajectory.Rd
+b940e3b68443f5cf9f44cde681551353 *man/KE_bwselection.Rd
+676fb3aff70288e5ce580d0c16e75ece *man/KE_fit.Rd
+1817fdbd8644a96d33297f2eb312742e *man/KE_trajSCB.Rd
+54002d9162b023897b7a519d3f3f9806 *man/datagen.Rd
+a8dde031486057b3b96721e9e2bef854 *man/longke-package.Rd
