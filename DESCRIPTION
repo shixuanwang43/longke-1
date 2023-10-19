@@ -5,7 +5,7 @@ Title: Nonparametric Predictive Model for Sparse and Irregular
 Version: 0.1.0
 Authors@R: c(person("Shixuan Wang", role = c("aut", "cre"),
              email = "wangs43@miamioh.edu"),
-             person("Seonjin Kim", role = "aut",
+             person("Seonjin Kim", role = c("aut", "cre"),
              email = "kims20@miamioh.edu"),
              person("Hyunkeun Cho", role = "aut",
              email = "hyunkeun-cho@uiowa.edu"),
@@ -26,7 +26,7 @@ NeedsCompilation: no
 Date: 2023-07-07
 Packaged: 2023-07-07 04:29:37 UTC; wangshixuan
 Author: Shixuan Wang [aut, cre],
-  Seonjin Kim [aut],
+  Seonjin Kim [aut, cre],
   Hyunkeun Cho [aut],
   Won Chang [aut]
 Repository: CRAN
